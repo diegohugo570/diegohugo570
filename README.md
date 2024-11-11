@@ -1,4 +1,4 @@
-## 👩🏻‍💻 Diego Hugo
+##  Diego Hugo
 
 **`Desenvolvedor FullStack`**
 
@@ -150,3 +150,5 @@ Me chamo Diego Hugo, tenho 32 anos e sou natural de São Caetano do Sul. Conclu�
   />
 
 </p>
+
+
