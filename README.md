@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Diego Hugo, tenho 32 anos e sou natural de São Caetano do Sul. Concluí o ensino médio no SAMAC, e o curso técnico em Administração na Instituição ETEC Adhemar Batista Heméritas. Sou Engenheiro Civil.Atualmente, estou cursando Desenvolvimento em Python e Inteligência Artificial. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu Linkedin.
+Me chamo Diego Hugo, tenho 32 anos e sou natural de São Caetano do Sul. Concluí o ensino médio no SAMAC, e o curso técnico em Administração na Instituição ETEC Adhemar Batista Heméritas. Sou Engenheiro Civil.Atualmente, estou cursando Formação em Arquiteto de IA. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu Linkedin.
 
 ### 🤖 Linguagens e Tecnologias
 
