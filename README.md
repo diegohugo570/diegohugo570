@@ -132,6 +132,40 @@ Workflows **n8n exportados**, baseados em **automações reais de produção**, 
 
 ---
 
+## 📂 Projetos em Destaque
+
+### 🤖 Potto Flow – Agente com Follow Up Inteligente (WhatsApp)
+
+![Potto Flow – Agente com Follow Up](assets/potto-flow-agente-follow-up.png)
+
+**Descrição:**  
+Workflow avançado de **Agente de IA com Follow Up automático**, desenvolvido no **n8n**, focado em **atendimento, qualificação e reengajamento de leads via WhatsApp**.
+
+Este projeto simula um **assistente humano**, com **memória de conversa, entendimento de intenção do usuário e automações de acompanhamento temporal**, sendo ideal para clínicas, vendas, suporte ou pré-atendimento.
+
+**O que esse agente faz na prática:**
+- Recebe mensagens via **Webhook (WhatsApp API)**
+- Filtra mensagens inválidas (grupos, newsletters, edições)
+- Cria ou recupera usuários automaticamente no **Supabase**
+- Processa **texto, áudio e imagem**
+  - Áudio → transcrição automática via IA
+- Utiliza **Agente de IA (LLM)** com:
+  - Prompt estruturado
+  - Memória por usuário
+  - Tool Calling com banco de dados
+- Identifica **intenção/desejo do usuário**
+- Responde via **WhatsApp** de forma contextual
+- Atualiza histórico e estágio do lead
+- Executa **Follow Ups automáticos**:
+  - ⏱️ 10 minutos
+  - ⏱️ 24 horas
+  - ⏱️ 3 dias
+
+📁 **Workflow incluso:**  
+`Potto_Flow___Agente_com_Follow_Up.json`
+
+---
+
 ## ⭐ Projeto em Destaque
 
 ### 📊 A Tríade — IA para Análise de Ações
