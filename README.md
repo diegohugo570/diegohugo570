@@ -134,9 +134,9 @@ Workflows **n8n exportados**, baseados em **automações reais de produção**, 
 
 ## 📂 Projetos em Destaque
 
-### 🤖 Potto Flow – Agente de Atendimento Inteligente (WhatsApp)
+### 🤖 Agente de Atendimento Inteligente (WhatsApp)
 
-![Potto Flow – Agente de Atendimento](assets/agente-de-atendimento.png)
+![Agente de Atendimento](assets/agente-de-atendimento.png)
 
 **Descrição:**  
 Workflow completo de **Agente de Atendimento com IA**, desenvolvido no **n8n**, projetado para **responder clientes automaticamente via WhatsApp**, simulando o comportamento de uma **secretária humana**, com contexto, memória e integração com sistemas externos.
@@ -171,9 +171,9 @@ Este agente é ideal para **clínicas, consultórios, empresas de serviços e at
 
 ---
 
-### 🤖 Potto Flow – Agente com Follow Up Inteligente (WhatsApp)
+### 🤖 Agente com Follow Up Inteligente (WhatsApp)
 
-![Potto Flow – Agente com Follow Up](assets/potto-flow-agente-follow-up.png)
+![Agente com Follow Up](assets/potto-flow-agente-follow-up.png)
 
 **Descrição:**  
 Workflow avançado de **Agente de IA com Follow Up automático**, desenvolvido no **n8n**, focado em **atendimento, qualificação e reengajamento de leads via WhatsApp**.
@@ -203,9 +203,9 @@ Este projeto simula um **assistente humano**, com **memória de conversa, entend
 
 ---
 
-### 📄 Potto Flow – Geração Automática de Contratos com IA (WhatsApp)
+### 📄 Geração Automática de Contratos com IA (WhatsApp)
 
-![Potto Flow – Gerar Contrato](assets/fluxo-gerar-contrato.png)
+![Gerar Contrato](assets/fluxo-gerar-contrato.png)
 
 **Descrição:**  
 Workflow de **geração automática de contratos**, desenvolvido no **n8n**, que transforma dados enviados via **Webhook** em um **contrato personalizado em PDF**, utilizando **Google Docs como template**, e envia o documento final diretamente ao cliente via **WhatsApp**.
@@ -237,9 +237,9 @@ Este fluxo é ideal para **prestadores de serviço, consultorias, agências e em
 
 ---
 
-### 📧 Potto Flow – Resumo Inteligente de E-mails com IA (Gmail)
+### 📧 Resumo Inteligente de E-mails com IA (Gmail)
 
-![Potto Flow – Resumo de E-mail](assets/fluxo-resumo-email.png)
+![Resumo de E-mail](assets/fluxo-resumo-email.png)
 
 **Descrição:**  
 Workflow de **resumo automático de e-mails**, desenvolvido no **n8n**, que coleta mensagens recebidas no **Gmail**, analisa o conteúdo com **Inteligência Artificial** e envia diariamente um **resumo estruturado com pontos-chave e ações recomendadas**.
