@@ -307,9 +307,9 @@ Este fluxo cria um **pipeline de recrutamento inteligente**, escalável e audit�
 
 ---
 
-### 🛒 Potto Flow – Infoproduto com Recuperação de Checkout (WhatsApp)
+### 🛒 Infoproduto com Recuperação de Checkout (WhatsApp)
 
-![Potto Flow – Infoproduto e Recuperação de Checkout](assets/fluxo-infoproduto-e-recuperacao-checkout.png)
+![Infoproduto e Recuperação de Checkout](assets/fluxo-infoproduto-e-recuperacao-checkout.png)
 
 **Descrição:**  
 Workflow avançado de **automação de vendas de infoprodutos**, desenvolvido no **n8n**, focado em **atendimento automatizado, recuperação de checkout abandonado e follow up inteligente via WhatsApp**.
