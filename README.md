@@ -268,9 +268,9 @@ Este projeto é ideal para **gestores, executivos, equipes comerciais e operaç�
 
 ---
 
-### 🧑‍💼 Potto Flow – Triagem Inteligente de Currículos com IA (RH)
+### 🧑‍💼 Triagem Inteligente de Currículos com IA (RH)
 
-![Potto Flow – Triagem de Currículo RH](assets/triagem-curriculo-rh.png)
+![Triagem de Currículo RH](assets/triagem-curriculo-rh.png)
 
 **Descrição:**  
 Workflow completo de **triagem automatizada de currículos**, desenvolvido no **n8n**, que utiliza **Inteligência Artificial** para analisar currículos em **PDF**, comparar com uma **descrição de vaga específica** e gerar uma **avaliação estruturada do candidato**, pronta para decisão de RH.
