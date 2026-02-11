@@ -32,7 +32,10 @@ Este repositório reúne **projetos práticos**, **arquiteturas aplicadas** e **
 ![LangGraph](https://img.shields.io/badge/LangGraph-1f2937?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-4B5563?style=for-the-badge)
 ![Embeddings](https://img.shields.io/badge/Embeddings-374151?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-0F172A?style=for-the-badge)
+![Agentic_AI](https://img.shields.io/badge/Agentic_AI-111827?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-111827?style=for-the-badge)
+![Structured Output](https://img.shields.io/badge/Structured_Output-7C3AED?style=for-the-badge)
 
 ### 🔁 Automação & Integrações
 ![n8n](https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white)
@@ -42,7 +45,10 @@ Este repositório reúne **projetos práticos**, **arquiteturas aplicadas** e **
 
 ### 🗄️ Dados & Persistência
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-1F2937?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge)
+![Text2SQL](https://img.shields.io/badge/Text2SQL_Agent-000000?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Weaviate](https://img.shields.io/badge/Weaviate-00B4D8?style=for-the-badge)
@@ -53,6 +59,7 @@ Este repositório reúne **projetos práticos**, **arquiteturas aplicadas** e **
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-111827?style=for-the-badge)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge)
@@ -75,6 +82,12 @@ Este repositório reúne **projetos práticos**, **arquiteturas aplicadas** e **
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
+### 📊 Dados & Análise
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-111827?style=for-the-badge)
+
 ### 📦 Build & Bundler
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 
@@ -84,6 +97,7 @@ Este repositório reúne **projetos práticos**, **arquiteturas aplicadas** e **
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
