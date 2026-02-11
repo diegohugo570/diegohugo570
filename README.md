@@ -123,6 +123,63 @@ Coleção de **projetos e estudos práticos** focados em **IA aplicada a problem
 
 ---
 
+# ⭐ Projetos em Destaque
+
+## 🚀 1️⃣ Text2SQL Agent
+
+Agente inteligente capaz de:
+
+- Receber perguntas em linguagem natural  
+- Interpretar intenção do usuário  
+- Gerar queries SQL automaticamente  
+- Consultar banco de dados  
+- Retornar respostas estruturadas  
+
+### Tecnologias:
+- Python  
+- LLMs  
+- Arquitetura de Agente  
+- Orquestração de fluxo  
+
+Aplicação prática de IA para análise de dados orientada por linguagem natural.
+
+---
+
+## ⚡ 2️⃣ API Profissional com FastAPI
+
+Projeto estruturado utilizando:
+
+- FastAPI  
+- Docker  
+- Docker Compose  
+- Alembic (migrations)  
+- Arquitetura modular  
+- Variáveis de ambiente  
+- Estrutura pronta para produção  
+
+### Conceitos aplicados:
+- Criação de rotas REST  
+- Validação com Pydantic  
+- Separação por camadas  
+- Organização profissional de projeto  
+- Preparação para deploy  
+
+Projeto voltado para construção de APIs modernas e escaláveis em Python.
+
+---
+
+## 🌦️ 3️⃣ AUS Weather — Projeto de Análise de Dados
+
+Projeto de análise e manipulação de dados climáticos aplicando:
+
+- Fundamentos de Python  
+- Estruturação lógica  
+- Limpeza e manipulação de dados  
+
+Representa a consolidação da base técnica para evoluções em Data Science e IA.
+
+---
+
 ## 🔁 Portfólio — Automação com n8n
 
 Workflows **n8n exportados**, baseados em **automações reais de produção**, focados em **eficiência operacional, integração de sistemas e IA aplicada**.
