@@ -106,20 +106,29 @@ Este repositório reúne **projetos práticos**, **arquiteturas aplicadas** e **
 Coleção de **projetos e estudos práticos** focados em **IA aplicada a problemas reais de negócio**, com visão de **arquitetura, produto e escala**.
 
 ### 🔹 LLMs & IA Aplicada
-- IA aplicada a negócios e produtos  
-- Finanças, Marketing, Atendimento e Operações  
-- Human-in-the-loop  
-- Análises explicáveis com LLMs  
+- Aplicação estratégica de LLMs em produtos e sistemas corporativos  
+- Casos práticos em Finanças, Marketing, Atendimento, RH e Operações  
+- Human-in-the-Loop para validação e controle de decisões críticas  
+- Structured Outputs e geração de respostas auditáveis  
+- Prompt Engineering avançado (roteamento, decomposição de tarefas, raciocínio estruturado)  
+- Integração de LLMs com APIs, bancos de dados e fluxos automatizados  
 
 ### 🔹 Agentes Autônomos & LangGraph
-- Agentic Workflows  
-- Arquiteturas multi-agentes  
-- Roteamento inteligente com LLMs  
+- Construção de Agentic Workflows orientados a estados  
+- Arquiteturas multi-agentes com separação de responsabilidades  
+- Roteamento inteligente com LLM Routing  
+- Orquestração de ferramentas externas (APIs, banco de dados, funções)  
+- Controle de fluxo com memória, checkpoints e persistência  
+- Aplicação prática em automações e sistemas orientados a decisão  
 
 ### 🔹 RAG — Retrieval-Augmented Generation
-- Pipelines RAG completos  
-- Enriquecimento de contexto com embeddings  
-- Recuperação semântica em bases vetoriais  
+- Construção de pipelines RAG completos (ingestão → indexação → recuperação → geração)  
+- Estratégias de chunking e pré-processamento de documentos  
+- Criação e uso de embeddings  
+- Armazenamento em bases vetoriais (Vector DB / pgvector)  
+- Recuperação semântica com busca híbrida  
+- Enriquecimento dinâmico de contexto para respostas mais precisas e fundamentadas  
+- Aplicação em bases privadas de conhecimento e sistemas corporativos  
 
 ---
 
