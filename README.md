@@ -191,6 +191,223 @@ Representa a consolidação da base técnica para evoluções em Data Science e 
 
 ---
 
+## 🏆 4️⃣ Prompt Packer
+Script de engenharia de prompt que:
+
+- Recebe via terminal:
+  - Role  
+  - Tom de voz  
+  - Tarefa  
+  - Número máximo de palavras  
+
+- Monta prompt estruturado com f-strings  
+- Estima quantidade de palavras (1 palavra ≈ 6.11 caracteres)  
+- Valida se está dentro do intervalo aceitável (±10 palavras)  
+
+Aplicação prática de controle de saída de LLMs.
+```python
+# Exemplo de uso
+prompt_final = f"""
+# Role
+{role}
+
+# Tom de voz
+{tom_de_voz}
+
+# Tarefa
+{tarefa}
+
+Pense passo a passo antes de responder.
+"""
+palavras_estimadas = len(prompt_final) // 6.11
+dentro_do_intervalo = numero_maximo - 10 <= palavras_estimadas <= numero_maximo + 10
+```
+---
+
+## 🏆 5️⃣ Persistent Chat History
+Chat de terminal com memória persistente:
+
+- Lê histórico salvo em `.txt`  
+- Loop contínuo até `/stop`  
+- Salvamento incremental com `with open()`  
+- Estrutura organizada por roles  
+
+Aplicação de persistência e controle de contexto.
+```python
+# Salvando histórico
+with open("./modulo_2/conversation_history.txt", "a") as historico:
+    for message in new_messages:
+        historico.write(f"{message['role']}: {message['content']}\n")
+```
+       
+---
+
+## 🏆 6️⃣ Token Cost Calculator
+Mini-biblioteca para estimar custo mensal de modelos:
+
+- Tabela de custo por modelo  
+- Cálculo baseado em tokens de entrada e saída  
+- Consideração de janela de contexto crescente  
+- Registro automático em `log.txt`  
+
+Aplicação prática de controle financeiro de LLMs.
+```python
+CUSTO_MODELOS_DOLAR = {
+    "gpt-5.1": {"input": 1.25, "output": 10},
+    "claude-4.5-opus": {"input": 5, "output": 25}
+}
+
+def calcular_custo_total(modelo: str,
+                         tokens_system_prompt: int,
+                         media_tokens_input: int,
+                         media_tokens_output: int,
+                         media_mensagens_por_dia: int) -> float:
+    # Considera janela de contexto crescente
+    # Registra cada cálculo em log.txt
+```
+
+---
+
+## 🏆 7️⃣ Model Provider SDK
+Mini-SDK orientado a objetos:
+
+- Classe base abstrata  
+- Simulação de provedores  
+- Validação de API Key  
+- Controle de latência  
+- Padronização de retorno  
+
+Aplicação de POO para arquitetura extensível.
+```python
+class ModeloBase:
+    def invoke(self, prompt: str, api_key: str) -> str:
+        raise NotImplementedError("Subclasses devem implementar este método")
+
+class OpenAIModel(ModeloBase):
+    def invoke(self, prompt: str, api_key: str = OPENAI_API_KEY) -> str:
+        if not api_key.startswith("sk-"):
+            raise ValueError("API Key inválida")
+        time.sleep(3)  # Simula latência
+        return {"model": self.nome, "output": "Resposta da OpenAI", "temperatura": self.temperatura}
+```
+
+---
+
+## 🏆 8️⃣ Simple Vector Store
+Armazenamento vetorial em memória com:
+
+- Vetores NumPy  
+- Cálculo de similaridade por distância de cosseno  
+- Ordenação por menor distância  
+- Retorno Top-K  
+
+Base para sistemas RAG customizados.
+```python
+class VectorStore:
+    def query(self, query: np.array, k: int) -> list:
+        distances = []
+        for document, vector in zip(self.documents, self.vectors):
+            # Distância de cosseno
+            distance = 1 - (np.dot(query, vector) /
+                          (np.linalg.norm(query) * np.linalg.norm(vector)))
+            distances.append((distance, document))
+
+        distances.sort(key=lambda x: x[0])
+        return distances[:k]
+```
+
+---
+
+## 🏆 9️⃣ Fine-Tuning Dataset Prepper
+Pipeline ETL completo:
+
+- Normalização de roles (human/ai)  
+- Remoção de dados sensíveis  
+- Parse de datas  
+- Deduplicação  
+- Transformação para JSONL  
+- Exportação pronta para fine-tuning  
+
+Aplicação real de engenharia de dados para IA.
+```python
+class ETL:
+    def pipeline(self) -> pd.DataFrame:
+        df = self.normalize_sender(self.data)      # human/ai
+        df = self.normalize_content(df)            # Remove PIIs
+        df = self.normalize_created_at(df)         # Parse datas
+        df = self.remove_duplicates(df)            # Deduplicação
+        jsonl = self.transform_data(df)            # Formato JSONL
+        self.export_data(jsonl)                    # training_data.jsonl
+        return df
+```
+
+Saída no formato para Fine-Tuning:
+```python
+{
+  "messages": [
+    { "role": "user", "content": "..." },
+    { "role": "assistant", "content": "..." }
+  ]
+}
+```
+
+---
+
+## 🏆 🔟 Token Usage Dashboard
+Dashboard orientado a objetos para análise de datasets:
+
+- Leitura de JSONL  
+- Estimativa de tokens  
+- Classificação de tópicos por regras  
+- Geração de histogramas e gráficos  
+
+Aplicação de análise quantitativa em datasets de treinamento.
+```python
+# Estrutura de classes
+DatasetReader   → Carrega e extrai textos do JSONL
+TokenStats      → Estima tokens e classifica tópicos
+DashboardPlotter → Gera histograma + gráfico de barras
+
+# Classificação por regras
+TOPIC_RULES = {
+  "Cancelamento": ["cancel", "cancelar", "assinatura"],
+  "Cobrança/Pagamento": ["cobran", "cartão", "pagamento"],
+  "App/Erro": ["trava", "erro", "bug"],
+  ...
+}
+```
+
+---
+
+## 🏆 1️⃣1️⃣ The CLI Assistant
+Assistente de terminal com:
+
+- Memória persistente  
+- Ferramentas integradas (contagem de palavras, data/hora)  
+- Estrutura baseada em agente  
+- Loop interativo  
+- Integração com modelo LLM  
+
+Aplicação prática de arquitetura agentic em ambiente CLI.
+```python
+class CLIAssistant:
+    def __init__(self, model: str, system_prompt: str, history_path: str):
+        self.agent = create_agent(self.model, tools=[
+            get_current_time,      # Retorna data/hora atual
+            count_words_in_phrase  # Conta palavras em frase
+        ])
+
+    def run(self) -> None:
+        while True:
+            user_input = input("Você: ")
+            if user_input == "/stop":
+                break
+            response = self.message_agent(HumanMessage(content=user_input))
+            print(f"AI: {response}")
+```            
+
+---
+
 ## 🔁 Portfólio — Automação com n8n
 
 Workflows **n8n exportados**, baseados em **automações reais de produção**, focados em **eficiência operacional, integração de sistemas e IA aplicada**.
