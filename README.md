@@ -37,6 +37,9 @@ Este repositório reúne **projetos práticos**, **arquiteturas aplicadas** e **
 ![Agentic_AI](https://img.shields.io/badge/Agentic_AI-111827?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-111827?style=for-the-badge)
 ![Structured Output](https://img.shields.io/badge/Structured_Output-7C3AED?style=for-the-badge)
+![ETL](https://img.shields.io/badge/ETL-2E1065?style=for-the-badge&logo=databricks&logoColor=white)
+![Agents](https://img.shields.io/badge/Agents-0F766E?style=for-the-badge&logo=langchain&logoColor=white)
+![Vetores](https://img.shields.io/badge/Vetores-0E7490?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 🔁 Automação & Integrações
 ![n8n](https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white)
