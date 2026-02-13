@@ -46,6 +46,7 @@ Este repositório reúne **projetos práticos**, **arquiteturas aplicadas** e **
 ![n8n](https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white)
 ![APIs](https://img.shields.io/badge/APIs-111827?style=for-the-badge)
 ![REST](https://img.shields.io/badge/REST-374151?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/Webhooks-374151?style=for-the-badge)
 
 ### 🗄️ Dados & Persistência
