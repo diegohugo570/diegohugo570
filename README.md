@@ -49,6 +49,15 @@ Este repositório reúne **projetos práticos**, **arquiteturas aplicadas** e **
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/Webhooks-374151?style=for-the-badge)
 
+### ⚡ Vibe Coding & Desenvolvimento Acelerado com IA
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-0A0A0A?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Trae](https://img.shields.io/badge/Trae-1E1E1E?style=for-the-badge&logo=git&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+
 ### 🗄️ Dados & Persistência
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
