@@ -46,7 +46,7 @@ Este repositório reúne **projetos práticos**, **arquiteturas aplicadas** e **
 ![n8n](https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D28D9?style=for-the-badge&logo=make&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-![Dify](https://img.shields.io/badge/Dify-111827?style=for-the-badge&logo=data&logoColor=white)
+![Dify](https://img.shields.io/badge/Dify-155EEF?style=for-the-badge&logo=data&logoColor=white)
 ![APIs](https://img.shields.io/badge/APIs-111827?style=for-the-badge)
 ![REST](https://img.shields.io/badge/REST-374151?style=for-the-badge)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
