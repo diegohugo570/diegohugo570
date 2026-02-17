@@ -57,6 +57,7 @@ Este repositório reúne **projetos práticos**, **arquiteturas aplicadas** e **
 ![Trae](https://img.shields.io/badge/Trae-1E1E1E?style=for-the-badge&logo=git&logoColor=white)
 ![VS%20Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-34A853?style=for-the-badge&logo=google&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)
 
 
 ### 🗄️ Dados & Persistência
