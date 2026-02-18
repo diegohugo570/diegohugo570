@@ -62,6 +62,10 @@ Este repositório reúne **projetos práticos**, **arquiteturas aplicadas** e **
 ![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-34A853?style=for-the-badge&logo=google&logoColor=white)
 ![Lovable](https://img.shields.io/badge/Lovable-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)
 
+### 🧠 Frameworks de IA
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
 
 ### 🗄️ Dados & Persistência
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
