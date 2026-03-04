@@ -52,6 +52,7 @@ Este repositório reúne **projetos práticos**, **arquiteturas aplicadas** e **
 ![REST](https://img.shields.io/badge/REST-374151?style=for-the-badge)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/Webhooks-374151?style=for-the-badge)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ### ⚡ Vibe Coding & Desenvolvimento Acelerado com IA
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
@@ -80,6 +81,7 @@ Este repositório reúne **projetos práticos**, **arquiteturas aplicadas** e **
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Weaviate](https://img.shields.io/badge/Weaviate-00B4D8?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-00BFA5?style=for-the-badge)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare%20D1-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 
