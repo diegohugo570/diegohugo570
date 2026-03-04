@@ -128,6 +128,7 @@ Este repositório reúne **projetos práticos**, **arquiteturas aplicadas** e **
 ### ⚙️ Infraestrutura & Deploy
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-0db7ed?style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge)
