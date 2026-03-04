@@ -77,6 +77,7 @@ Este repositório reúne **projetos práticos**, **arquiteturas aplicadas** e **
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-1F2937?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge)
+![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Text2SQL](https://img.shields.io/badge/Text2SQL_Agent-000000?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
