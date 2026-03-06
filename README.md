@@ -27,6 +27,8 @@ Este repositório reúne **projetos práticos**, **arquiteturas aplicadas** e **
 ### 🤖 Inteligência Artificial
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge)
+![GPT](https://img.shields.io/badge/GPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-111827?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1f2937?style=for-the-badge)
