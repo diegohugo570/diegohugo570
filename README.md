@@ -129,6 +129,8 @@ Este repositório reúne **projetos práticos**, **arquiteturas aplicadas** e **
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Weaviate](https://img.shields.io/badge/Weaviate-00B4D8?style=for-the-badge)
+![Chroma](https://img.shields.io/badge/Chroma-7C3AED?style=for-the-badge&logo=data&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-00BFA5?style=for-the-badge)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare%20D1-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
