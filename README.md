@@ -50,6 +50,41 @@ Este repositório reúne **projetos práticos**, **arquiteturas aplicadas** e **
 ![CrewAI](https://img.shields.io/badge/CrewAI-0F766E?style=for-the-badge&logo=ai&logoColor=white)
 ![Vetores](https://img.shields.io/badge/Vetores-0E7490?style=for-the-badge&logo=numpy&logoColor=white)
 
+### 🧠 Modelos de Linguagem (LLMs)
+![GPT](https://img.shields.io/badge/GPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge)
+![Mixtral](https://img.shields.io/badge/Mixtral-FF7000?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+
+### ⚙️ Frameworks & Orquestração de IA
+![LangChain](https://img.shields.io/badge/LangChain-111827?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1f2937?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-0F766E?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🤖 Arquiteturas de IA
+![Agentic_AI](https://img.shields.io/badge/Agentic_AI-111827?style=for-the-badge)
+![Agents](https://img.shields.io/badge/Agents-0F766E?style=for-the-badge&logo=langchain&logoColor=white)
+![Agent2Agent_A2A](https://img.shields.io/badge/Agent2Agent_A2A-065F46?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-0F172A?style=for-the-badge)
+
+### 🧠 Retrieval & Contexto
+![RAG](https://img.shields.io/badge/RAG-4B5563?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-374151?style=for-the-badge)
+![Vector Store](https://img.shields.io/badge/Vector_Store-312E81?style=for-the-badge)
+![Vetores](https://img.shields.io/badge/Vetores-0E7490?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🧩 Engenharia de Prompt & Estrutura
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-111827?style=for-the-badge)
+![Structured Output](https://img.shields.io/badge/Structured_Output-7C3AED?style=for-the-badge)
+
+### 🧠 Linguagem Principal
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ### 🔁 Automação & Integrações
 ![n8n](https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D28D9?style=for-the-badge&logo=make&logoColor=white)
