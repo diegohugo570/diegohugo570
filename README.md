@@ -57,6 +57,7 @@ Este repositório reúne **projetos práticos**, **arquiteturas aplicadas** e **
 ![CrewAI](https://img.shields.io/badge/CrewAI-0F766E?style=for-the-badge&logo=ai&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge)
 ![LangSmith](https://img.shields.io/badge/LangSmith-00A67E?style=for-the-badge&logo=langchain&logoColor=white)
+![Langflow](https://img.shields.io/badge/Langflow-6E59F7?style=for-the-badge)
 ![Vetores](https://img.shields.io/badge/Vetores-0E7490?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 🧠 Modelos de Linguagem (LLMs)
@@ -77,6 +78,7 @@ Este repositório reúne **projetos práticos**, **arquiteturas aplicadas** e **
 ![Agno](https://img.shields.io/badge/Agno-6E59F7?style=for-the-badge)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge)
 ![LangSmith](https://img.shields.io/badge/LangSmith-00A67E?style=for-the-badge&logo=langchain&logoColor=white)
+![Langflow](https://img.shields.io/badge/Langflow-6E59F7?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 🤖 Arquiteturas de IA
