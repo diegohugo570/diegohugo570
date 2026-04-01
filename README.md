@@ -41,7 +41,10 @@ Este repositório reúne **projetos práticos**, **arquiteturas aplicadas** e **
 ![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-111827?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1f2937?style=for-the-badge)
+![Agno](https://img.shields.io/badge/Agno-6E59F7?style=for-the-badge)
+![GraphRAG](https://img.shields.io/badge/GraphRAG-FF6F00?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-4B5563?style=for-the-badge)
+![Neo4j](https://img.shields.io/badge/Neo4j-018BFF?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Embeddings](https://img.shields.io/badge/Embeddings-374151?style=for-the-badge)
 ![Vector Store](https://img.shields.io/badge/Vector_Store-312E81?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-0F172A?style=for-the-badge)
@@ -71,6 +74,7 @@ Este repositório reúne **projetos práticos**, **arquiteturas aplicadas** e **
 ![LangChain](https://img.shields.io/badge/LangChain-111827?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1f2937?style=for-the-badge)
 ![CrewAI](https://img.shields.io/badge/CrewAI-0F766E?style=for-the-badge)
+![Agno](https://img.shields.io/badge/Agno-6E59F7?style=for-the-badge)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge)
 ![LangSmith](https://img.shields.io/badge/LangSmith-00A67E?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
@@ -84,6 +88,8 @@ Este repositório reúne **projetos práticos**, **arquiteturas aplicadas** e **
 
 ### 🧠 Retrieval & Contexto
 ![RAG](https://img.shields.io/badge/RAG-4B5563?style=for-the-badge)
+![GraphRAG](https://img.shields.io/badge/GraphRAG-FF6F00?style=for-the-badge)
+![Neo4j](https://img.shields.io/badge/Neo4j-018BFF?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Embeddings](https://img.shields.io/badge/Embeddings-374151?style=for-the-badge)
 ![Vector Store](https://img.shields.io/badge/Vector_Store-312E81?style=for-the-badge)
 ![Vetores](https://img.shields.io/badge/Vetores-0E7490?style=for-the-badge&logo=numpy&logoColor=white)
