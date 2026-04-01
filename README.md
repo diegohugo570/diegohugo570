@@ -109,6 +109,7 @@ Este repositório reúne **projetos práticos**, **arquiteturas aplicadas** e **
 ![APIs](https://img.shields.io/badge/APIs-111827?style=for-the-badge)
 ![REST](https://img.shields.io/badge/REST-374151?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/Webhooks-374151?style=for-the-badge)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
