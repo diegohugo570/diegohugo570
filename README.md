@@ -87,6 +87,9 @@ Este repositório reúne **projetos práticos**, **arquiteturas aplicadas** e **
 ![OpenAI Agent Builder](https://img.shields.io/badge/OpenAI_Agent_Builder-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Agent2Agent_A2A](https://img.shields.io/badge/Agent2Agent_A2A-065F46?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-0F172A?style=for-the-badge)
+![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI_Agents_SDK-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ### 🧠 Retrieval & Contexto
 ![RAG](https://img.shields.io/badge/RAG-4B5563?style=for-the-badge)
@@ -139,12 +142,24 @@ Este repositório reúne **projetos práticos**, **arquiteturas aplicadas** e **
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
+### ⚙️ MLOps
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
+![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
+
+### 🛡️ LLM Guardrails & Safety
+
+![Guardrails AI](https://img.shields.io/badge/Guardrails_AI-7B61FF?style=for-the-badge)
+![NeMo Guardrails](https://img.shields.io/badge/NeMo_Guardrails-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Prompt Injection Detection](https://img.shields.io/badge/Prompt_Injection_Detection-FF4F4F?style=for-the-badge)
+![Function Calling](https://img.shields.io/badge/Function_Calling-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 🗄️ Dados & Persistência
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-1F2937?style=for-the-badge)
+![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge)
 ![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -154,13 +169,16 @@ Este repositório reúne **projetos práticos**, **arquiteturas aplicadas** e **
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Weaviate](https://img.shields.io/badge/Weaviate-00B4D8?style=for-the-badge)
-![Chroma](https://img.shields.io/badge/Chroma-7C3AED?style=for-the-badge&logo=data&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF4F8B?style=for-the-badge)
+![Chroma](https://img.shields.io/badge/Chroma-FF4F8B?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Vector DBs](https://img.shields.io/badge/Vector_DBs-7B61FF?style=for-the-badge)
 ![Pinecone](https://img.shields.io/badge/Pinecone-00BFA5?style=for-the-badge)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare%20D1-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 
 ### 🌐 Backend
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
