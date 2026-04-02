@@ -167,6 +167,37 @@ Este repositório reúne **projetos práticos**, **arquiteturas aplicadas** e **
 ![Langkit](https://img.shields.io/badge/Langkit-00A67E?style=for-the-badge)
 ![LLM Monitoring](https://img.shields.io/badge/LLM_Monitoring-FF4F4F?style=for-the-badge)
 
+### ⚙️ DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![KEDA](https://img.shields.io/badge/KEDA-FF6F00?style=for-the-badge)
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-0A66C2?style=for-the-badge)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge)
+![jq](https://img.shields.io/badge/jq-00ADD8?style=for-the-badge)
+
+![Python](https://img.shields.io/badge/Python_for_DevOps-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-FF6F61?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
+
 ### 🛡️ LLM Guardrails & Safety
 
 ![Guardrails AI](https://img.shields.io/badge/Guardrails_AI-7B61FF?style=for-the-badge)
