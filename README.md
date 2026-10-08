@@ -95,7 +95,7 @@ Backend em **Python/FastAPI** que combina dados de mercado, notícias e LLMs com
 
 `Python` · `FastAPI` · `Pydantic` · `Poetry` · `OpenAI` · `Docker`
 
-> 🔗 [Código](https://github.com/diegohugo570/NOME-DO-REPOSITORIO)
+> 🔗 [Código](https://github.com/diegohugo570/a_triade-main)
 
 ---
 
