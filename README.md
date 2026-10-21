@@ -31,11 +31,12 @@ Stack principal: Python · LangGraph · n8n · FastAPI · Supabase · Docker
 | Categoria | Tecnologias |
 |---|---|
 | **IA & Agentes** | ![LangChain](https://img.shields.io/badge/LangChain-111827?style=flat-square) ![LangGraph](https://img.shields.io/badge/LangGraph-1f2937?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-4B5563?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-0F172A?style=flat-square) ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white) |
-| **Automação** | ![n8n](https://img.shields.io/badge/n8n-FF6D00?style=flat-square&logo=n8n&logoColor=white) ![Make](https://img.shields.io/badge/Make-6D28D9?style=flat-square&logo=make&logoColor=white) ![Webhooks](https://img.shields.io/badge/Webhooks%20%2F%20APIs-374151?style=flat-square) |
-| **Backend** | [![My Skills](https://skillicons.dev/icons?i=py,fastapi,nodejs,ts,php,laravel)](https://skillicons.dev) |
+| **Automação** | <img src="assets/icons/n8n.svg" width="48" height="48" alt="n8n"/> <img src="assets/icons/make.svg" width="48" height="48" alt="Make"/> ![Webhooks](https://img.shields.io/badge/Webhooks%20%2F%20APIs-374151?style=flat-square) |
+| **Linguagens** | [![My Skills](https://skillicons.dev/icons?i=py,java,cs,c,cpp,ts,js,php)](https://skillicons.dev) |
+| **Backend** | [![My Skills](https://skillicons.dev/icons?i=fastapi,nodejs,laravel)](https://skillicons.dev) |
 | **Frontend** | [![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,tailwind,html,css)](https://skillicons.dev) |
 | **Dados** | [![My Skills](https://skillicons.dev/icons?i=postgres,supabase,mysql,redis)](https://skillicons.dev) |
-| **DevOps & Tools** | [![My Skills](https://skillicons.dev/icons?i=docker,git,github,vscode,vercel)](https://skillicons.dev) |
+| **DevOps & Tools** | [![My Skills](https://skillicons.dev/icons?i=docker,git,github,vscode,vercel)](https://skillicons.dev) <img src="assets/icons/cursor.svg" width="48" height="48" alt="Cursor"/> |
 
 ---
 
