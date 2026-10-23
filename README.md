@@ -156,6 +156,6 @@ Text2SQL Agent · API profissional com FastAPI · Prompt Packer · Persistent Ch
 ## 📫 Contato
 
 <p align="center">
-  <a href="https://linkedin.com/in/diegohugoai"><img src="https://img.shields.io/badge/LinkedIn-diegohrocha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/diegohugoai"><img src="https://img.shields.io/badge/LinkedIn-diegohugoai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/diegohugo570"><img src="https://img.shields.io/badge/GitHub-diegohugo570-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
