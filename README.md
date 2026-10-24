@@ -36,6 +36,7 @@ Stack principal: Python · LangGraph · n8n · FastAPI · Supabase · Docker
 | **Backend** | [![My Skills](https://skillicons.dev/icons?i=fastapi,nodejs,laravel)](https://skillicons.dev) |
 | **Frontend** | [![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,tailwind,html,css)](https://skillicons.dev) |
 | **Dados** | [![My Skills](https://skillicons.dev/icons?i=postgres,supabase,mysql,redis)](https://skillicons.dev) |
+| **Machine Learning** | [![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/keras.svg?color=%23D00000&height=40" width="40" height="40" alt="Keras"/>&nbsp;&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/numpy.svg?color=%234DABCF&height=40" width="40" height="40" alt="NumPy"/>&nbsp;&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/scipy.svg?color=%238CAAE6&height=40" width="40" height="40" alt="SciPy"/> |
 | **DevOps & Tools** | [![My Skills](https://skillicons.dev/icons?i=docker,git,github,vscode,vercel)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/cursor.svg?color=%23FFFFFF&height=40" width="40" height="40" alt="Cursor"/> |
 
 ---
