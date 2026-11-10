@@ -31,13 +31,13 @@ Stack principal: Python · LangGraph · n8n · FastAPI · Supabase · Docker
 | Categoria | Tecnologias |
 |---|---|
 | **IA & Agentes** | ![LangChain](https://img.shields.io/badge/LangChain-111827?style=flat-square) ![LangGraph](https://img.shields.io/badge/LangGraph-1f2937?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-4B5563?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-0F172A?style=flat-square) ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white) |
-| **Automação** | <img src="https://api.iconify.design/simple-icons/n8n.svg?color=%23EA4B71&height=40" width="40" height="40" alt="n8n"/>&nbsp;&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/make.svg?color=%239B4DFF&height=40" width="40" height="40" alt="Make"/> ![Webhooks](https://img.shields.io/badge/Webhooks%20%2F%20APIs-374151?style=flat-square) |
+| **Automação** | <img src="https://img.shields.io/badge/-%20%20-242938?style=for-the-badge&logo=n8n&logoColor=EA4B71" height="40" alt="n8n"/>&nbsp;&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/make.svg?color=%239B4DFF&height=40" width="40" height="40" alt="Make"/> ![Webhooks](https://img.shields.io/badge/Webhooks%20%2F%20APIs-374151?style=flat-square) |
 | **Linguagens** | [![My Skills](https://skillicons.dev/icons?i=py,java,cs,c,cpp,ts,js,php)](https://skillicons.dev) |
 | **Backend** | [![My Skills](https://skillicons.dev/icons?i=fastapi,nodejs,laravel)](https://skillicons.dev) |
 | **Frontend** | [![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,tailwind,html,css)](https://skillicons.dev) |
 | **Dados** | [![My Skills](https://skillicons.dev/icons?i=postgres,supabase,mysql,redis)](https://skillicons.dev) |
 | **Machine Learning** | [![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/keras.svg?color=%23D00000&height=40" width="40" height="40" alt="Keras"/>&nbsp;&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/numpy.svg?color=%234DABCF&height=40" width="40" height="40" alt="NumPy"/>&nbsp;&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/scipy.svg?color=%238CAAE6&height=40" width="40" height="40" alt="SciPy"/> |
-| **DevOps & Tools** | [![My Skills](https://skillicons.dev/icons?i=docker,git,github,vscode,vercel)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/cursor.svg?color=%23FFFFFF&height=40" width="40" height="40" alt="Cursor"/> |
+| **DevOps & Tools** | [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,git,github,vscode,vercel)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/cursor.svg?color=%23FFFFFF&height=40" width="40" height="40" alt="Cursor"/> ![CI/CD](https://img.shields.io/badge/CI%2FCD-374151?style=flat-square) |
 
 ---
 
