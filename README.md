@@ -27,7 +27,7 @@ Stack principal: Python · LangGraph · n8n · FastAPI · Supabase · Docker
 ---
 
 ## 🛠️ Stack
-
+ 
 | Categoria | Tecnologias |
 |---|---|
 | **IA & Agentes** | ![LangChain](https://img.shields.io/badge/LangChain-111827?style=flat-square) ![LangGraph](https://img.shields.io/badge/LangGraph-1f2937?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-4B5563?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-0F172A?style=flat-square) ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white) |
@@ -41,7 +41,7 @@ Stack principal: Python · LangGraph · n8n · FastAPI · Supabase · Docker
 | **Microsserviços** | [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev) ![Microsserviços](https://img.shields.io/badge/Microsservi%C3%A7os-374151?style=flat-square) ![REST](https://img.shields.io/badge/REST%20APIs-374151?style=flat-square) |
 | **Mensageria** | [![My Skills](https://skillicons.dev/icons?i=kafka,rabbitmq)](https://skillicons.dev) |
 | **Cloud** | [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) |
-
+ 
 ---
 
 ## ⭐ Projetos em destaque
